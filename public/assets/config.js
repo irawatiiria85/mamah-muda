@@ -1,46 +1,56 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "G.I.R.L.S - biolinkes.web.app",
+  "Name": "G.I.R.L.S",
+  "Description": "Official Account",
   "links": [
     {
+      "Title": "WhatsApp",
+      "URL": "https://biolinkes.page.link/girls",
+      "icon_classes": "fab fa-whatsapp",
+    },
+    {
+      "Title": "Tiktok",
+      "URL": "https://biolinkes.page.link/girls",
+      "icon_classes": "fab fa-tiktok",
+    },
+    {
       "Title": "Website",
-      "URL": "http://www.harindu.dev",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fas fa-link",
     },
     {
       "Title": "Github",
-      "URL": "https://github.com/harindulk",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fab fa-github",
     },
     {
       "Title": "Play Store",
-      "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fab fa-google-play"
     },
     {
       "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fab fa-itch-io"
     },
     {
       "Title": "Blog",
-      "URL": "blog-test",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fas fa-blog"
     },
     {
       "Title": "Twitter",
-      "URL": "https://twitter.com/Harindu_Fonseka",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fab fa-twitter"
     },
     {
       "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fab fa-linkedin"
     },
     {
       "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
+      "URL": "https://biolinkes.page.link/girls",
       "icon_classes": "fab fa-youtube"
     },
   ]
