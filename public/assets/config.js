@@ -1,7 +1,7 @@
 let config = {
-  "Title": "G.I.R.L.S - biolinkes.web.app",
-  "Name": "G.I.R.L.S",
-  "Description": "Official Account",
+  "Title": "Zhanglimei - Biolinkes",
+  "Name": "@zhanglimei",
+  "Description": "Beauty | Fashion",
   "links": [
     {
       "Title": "WhatsApp",
