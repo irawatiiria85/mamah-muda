@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "biolinkes",
+    "site": "mamah-muda",
     "public": "public",
     "ignore": [
       "firebase.json",
