@@ -1,0 +1,44 @@
+body,
+html {
+    background-color: #111111;
+}
+
+#tiktok {
+    max-width: 768px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+@media screen and (max-width:768px) {
+    #tiktok {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+}
+
+img.tiktok {
+    width: 100%;
+    max-width: 100%;
+    margin: 10px auto;
+    border-radius: 3px;
+}
+
+p,.btn {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+p.download {
+    color: yellow;
+    display: contents;
+    margin: auto 10px;
+}
+
+p.play {
+    color: #b0b0ff;
+    display: contents;
+    margin: auto 10px;
+}
